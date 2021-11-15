@@ -1,2 +1,3 @@
 # html-examples
-html tag examples. created for revision!
+html tag examples
+created for revision!
